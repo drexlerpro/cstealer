@@ -18,8 +18,9 @@
 </p>
  
 <p align="center">
+  Telegram: https://t.me/cstealerr
   <br>
-  🔱 Join Discord for support and contact 🔱
+  🔱 Join Telegram for support and contact 🔱
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 <br>
